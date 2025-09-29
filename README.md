@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction-Retention-Dashboard
 
 
-# Customer Churn Prediction & Retention Dashboard
+
 
 
 **Description**: End-to-end project to predict churn in a subscription service and present a retention dashboard.
